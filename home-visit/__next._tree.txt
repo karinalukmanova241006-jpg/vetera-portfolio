@@ -1,2 +1,2 @@
-:HL["/vetera-portfolio/_next/static/css/cc496f95d60763da.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"home-visit","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"48C2iYL1bFL5LGS4H2c9D"}
+:HL["/vetera-portfolio/_next/static/css/6346909577af8b92.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"home-visit","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"PB9TzF28PHd1Ay4c4wTnV"}
