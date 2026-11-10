@@ -1,0 +1,19 @@
+1:"$Sreact.fragment"
+2:I[9912,["849","static/chunks/849-98e4f2e0cc3eea3a.js","433","static/chunks/433-faf86b6d349df20a.js","7","static/chunks/7-db321c6e0b977add.js","955","static/chunks/955-9c621e1503d12096.js","177","static/chunks/app/layout-2fbfc4d16f5973ac.js"],"SiteFrame"]
+3:I[7121,[],""]
+4:I[4581,[],""]
+5:I[1304,[],"ClientPageRoot"]
+6:I[6919,["849","static/chunks/849-98e4f2e0cc3eea3a.js","433","static/chunks/433-faf86b6d349df20a.js","7","static/chunks/7-db321c6e0b977add.js","599","static/chunks/599-8e09d36cffb6f2e2.js","955","static/chunks/955-9c621e1503d12096.js","974","static/chunks/app/page-9ba719b23375a241.js"],"default"]
+9:I[484,[],"OutletBoundary"]
+a:"$Sreact.suspense"
+c:I[484,[],"ViewportBoundary"]
+e:I[484,[],"MetadataBoundary"]
+10:I[7123,[],"default",1]
+:HL["/vetera-portfolio/_next/static/css/cc496f95d60763da.css","style"]
+0:{"P":null,"c":["",""],"q":"","i":false,"f":[[["",{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/vetera-portfolio/_next/static/css/cc496f95d60763da.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"className":"antialiased","children":["$","$L2",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"route-page container empty-state","children":[["$","h1",null,{"children":"Страница не найдена"}],["$","p",null,{"children":"Вернёмся туда, где начинается забота."}],["$","a",null,{"href":"/vetera-portfolio/","className":"button","children":"На главную"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]]}],{"children":[["$","$1","c",{"children":[["$","$L5",null,{"Component":"$6","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@7","$@8"]}}],null,["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]]}],{},null,false,null]},null,false,null],["$","$1","h",{"children":[null,["$","$Lc",null,{"children":"$Ld"}],["$","div",null,{"hidden":true,"children":["$","$Le",null,{"children":["$","$a",null,{"name":"Next.Metadata","children":"$Lf"}]}]}],null]}],false]],"m":"$undefined","G":["$10",[]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"48C2iYL1bFL5LGS4H2c9D"}
+7:{}
+8:"$0:f:0:1:1:children:0:props:children:0:props:serverProvidedParams:params"
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+11:I[6869,[],"IconMark"]
+b:null
+f:[["$","title","0",{"children":"VETERA — учебный концепт для портфолио"}],["$","meta","1",{"name":"description","content":"Демонстрация дизайна и UX вымышленной ветеринарной клиники. Без реальной записи, продаж и медицинских услуг."}],["$","meta","2",{"name":"robots","content":"noindex,nofollow,noarchive"}],["$","meta","3",{"name":"codex-preview","content":"development"}],["$","link","4",{"rel":"shortcut icon","href":"/vetera-portfolio/favicon.svg"}],["$","link","5",{"rel":"icon","href":"/vetera-portfolio/favicon.svg"}],["$","$L11","6",{}]]
