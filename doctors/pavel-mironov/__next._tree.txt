@@ -1,3 +1,3 @@
-:HL["/vetera-portfolio/_next/static/css/5a7b689d997da526.css","style"]
+:HL["/vetera-portfolio/_next/static/css/10af07c66da155d4.css","style"]
 :HL["/vetera-portfolio/images/d08.jpg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"doctors","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"pavel-mironov","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"OIxrYkw_Iq3Q0w76T_0eS"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"doctors","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"pavel-mironov","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"qi1n6SPyV1MlZcE7oyPIM"}
